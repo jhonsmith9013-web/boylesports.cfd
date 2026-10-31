@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#141c2e" />
+      <stop offset="100%" stop-color="#070a11" />
+    </linearGradient>
+    <linearGradient id="cGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00e599" />
+      <stop offset="100%" stop-color="#22d3ee" />
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="12" flood-color="#00e599" flood-opacity="0.35" />
+    </filter>
+  </defs>
+
+  <!-- Outer Circle Background -->
+  <circle cx="256" cy="256" r="248" fill="url(#bgGrad)" stroke="#1e293b" stroke-width="8" />
+  <circle cx="256" cy="256" r="236" fill="none" stroke="rgba(0, 229, 153, 0.25)" stroke-width="4" />
+
+  <!-- Bold Modern Athletic Letter "C" -->
+  <path d="M 365 145
+           C 335 110 295 95 250 95
+           C 165 95 105 160 105 256
+           C 105 352 165 417 250 417
+           C 295 417 335 402 365 367
+           L 322 322
+           C 305 344 280 355 250 355
+           C 198 355 167 312 167 256
+           C 167 200 198 157 250 157
+           C 280 157 305 168 322 190
+           Z"
+        fill="url(#cGrad)"
+        filter="url(#glow)" />
+
+  <!-- Lightning Energy Accent in Center -->
+  <polygon points="268,205 232,260 262,260 244,307 284,250 254,250" fill="#ffffff" opacity="0.9" />
+</svg>
+
