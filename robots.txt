@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hostinfo.cfd/sitemap.xml
+Sitemap: https://boylesports.cfd/sitemap.xml

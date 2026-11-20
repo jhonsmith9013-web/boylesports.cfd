@@ -1,0 +1,5 @@
+_old_scripts_backup/
+.wrangler/
+gsc-key.json
+deploy_single_site.js
+.env

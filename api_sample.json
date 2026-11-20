@@ -1,1 +1,1119 @@
-[{"category_name":"mlb","schedule":[{"id":1734,"match_id":"espn-401908046","title":"Milwaukee Brewers at Tampa Bay Rays","category":"mlb","league_name":"MLB","league_icon":"https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-401908046.png","thumbnail_path":"/thumbnails/espn-401908046.png","date":1793232000000,"date_iso":"2026-10-29T00:00:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"Tampa Bay Rays","badge":"https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tb.png"},"away":{"name":"Milwaukee Brewers","badge":"https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/mlb/1734?source=0"}],"synced_at":"2026-10-28 04:00:23","iframeUrl":"https://play.aurasportsplayer.cfd/mlb/1734","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/mlb/1734\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/mlb/1734"}]},{"category_name":"serie-a","schedule":[{"id":1755,"match_id":"espn-401874993","title":"Bologna at AC Milan","category":"serie-a","league_name":"Serie A","league_icon":"https://a.espncdn.com/i/leaguelogos/soccer/500/12.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-401874993.png","thumbnail_path":"/thumbnails/espn-401874993.png","date":1793208600000,"date_iso":"2026-10-28T17:30:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"AC Milan","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/103.png"},"away":{"name":"Bologna","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/107.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/serie-a/1755?source=0"}],"synced_at":"2026-10-28 04:00:27","iframeUrl":"https://play.aurasportsplayer.cfd/serie-a/1755","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/serie-a/1755\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/serie-a/1755"},{"id":1756,"match_id":"espn-401874965","title":"Udinese at Parma","category":"serie-a","league_name":"Serie A","league_icon":"https://a.espncdn.com/i/leaguelogos/soccer/500/12.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-401874965.png","thumbnail_path":"/thumbnails/espn-401874965.png","date":1793208600000,"date_iso":"2026-10-28T17:30:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"Parma","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/115.png"},"away":{"name":"Udinese","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/118.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/serie-a/1756?source=0"}],"synced_at":"2026-10-28 04:00:27","iframeUrl":"https://play.aurasportsplayer.cfd/serie-a/1756","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/serie-a/1756\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/serie-a/1756"},{"id":1757,"match_id":"espn-401874773","title":"Internazionale at Venezia","category":"serie-a","league_name":"Serie A","league_icon":"https://a.espncdn.com/i/leaguelogos/soccer/500/12.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-401874773.png","thumbnail_path":"/thumbnails/espn-401874773.png","date":1793208600000,"date_iso":"2026-10-28T17:30:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"Venezia","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/17530.png"},"away":{"name":"Internazionale","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/110.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/serie-a/1757?source=0"}],"synced_at":"2026-10-28 04:00:27","iframeUrl":"https://play.aurasportsplayer.cfd/serie-a/1757","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/serie-a/1757\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/serie-a/1757"},{"id":1758,"match_id":"espn-401874988","title":"Juventus at Genoa","category":"serie-a","league_name":"Serie A","league_icon":"https://a.espncdn.com/i/leaguelogos/soccer/500/12.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-401874988.png","thumbnail_path":"/thumbnails/espn-401874988.png","date":1793216700000,"date_iso":"2026-10-28T19:45:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"Genoa","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/3263.png"},"away":{"name":"Juventus","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/111.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/serie-a/1758?source=0"}],"synced_at":"2026-10-28 04:00:27","iframeUrl":"https://play.aurasportsplayer.cfd/serie-a/1758","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/serie-a/1758\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/serie-a/1758"},{"id":1759,"match_id":"espn-401874799","title":"Napoli at Monza","category":"serie-a","league_name":"Serie A","league_icon":"https://a.espncdn.com/i/leaguelogos/soccer/500/12.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-401874799.png","thumbnail_path":"/thumbnails/espn-401874799.png","date":1793216700000,"date_iso":"2026-10-28T19:45:00.000Z","status":"scheduled","popular":false,"user_count":1,"userCount":1,"teams":{"home":{"name":"Monza","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/4007.png"},"away":{"name":"Napoli","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/114.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/serie-a/1759?source=0"}],"synced_at":"2026-10-28 04:00:27","iframeUrl":"https://play.aurasportsplayer.cfd/serie-a/1759","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/serie-a/1759\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/serie-a/1759"}]},{"category_name":"carabao-cup","schedule":[{"id":1765,"match_id":"espn-401921834","title":"Brighton & Hove Albion at Manchester City","category":"carabao-cup","league_name":"Carabao Cup","league_icon":"https://a.espncdn.com/i/leaguelogos/soccer/500/41.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-401921834.png","thumbnail_path":"/thumbnails/espn-401921834.png","date":1793215800000,"date_iso":"2026-10-28T19:30:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"Manchester City","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/382.png"},"away":{"name":"Brighton & Hove Albion","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/331.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/carabao-cup/1765?source=0"}],"synced_at":"2026-10-28 04:00:30","iframeUrl":"https://play.aurasportsplayer.cfd/carabao-cup/1765","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/carabao-cup/1765\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/carabao-cup/1765"},{"id":1766,"match_id":"espn-401921840","title":"Aston Villa at AFC Bournemouth","category":"carabao-cup","league_name":"Carabao Cup","league_icon":"https://a.espncdn.com/i/leaguelogos/soccer/500/41.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-401921840.png","thumbnail_path":"/thumbnails/espn-401921840.png","date":1793216700000,"date_iso":"2026-10-28T19:45:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"AFC Bournemouth","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/349.png"},"away":{"name":"Aston Villa","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/362.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/carabao-cup/1766?source=0"}],"synced_at":"2026-10-28 04:00:30","iframeUrl":"https://play.aurasportsplayer.cfd/carabao-cup/1766","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/carabao-cup/1766\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/carabao-cup/1766"},{"id":1767,"match_id":"espn-401921841","title":"Crystal Palace at Fulham","category":"carabao-cup","league_name":"Carabao Cup","league_icon":"https://a.espncdn.com/i/leaguelogos/soccer/500/41.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-401921841.png","thumbnail_path":"/thumbnails/espn-401921841.png","date":1793216700000,"date_iso":"2026-10-28T19:45:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"Fulham","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/370.png"},"away":{"name":"Crystal Palace","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/384.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/carabao-cup/1767?source=0"}],"synced_at":"2026-10-28 04:00:30","iframeUrl":"https://play.aurasportsplayer.cfd/carabao-cup/1767","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/carabao-cup/1767\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/carabao-cup/1767"},{"id":1768,"match_id":"espn-401921843","title":"Brentford at Sunderland","category":"carabao-cup","league_name":"Carabao Cup","league_icon":"https://a.espncdn.com/i/leaguelogos/soccer/500/41.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-401921843.png","thumbnail_path":"/thumbnails/espn-401921843.png","date":1793216700000,"date_iso":"2026-10-28T19:45:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"Sunderland","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/366.png"},"away":{"name":"Brentford","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/337.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/carabao-cup/1768?source=0"}],"synced_at":"2026-10-28 04:00:30","iframeUrl":"https://play.aurasportsplayer.cfd/carabao-cup/1768","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/carabao-cup/1768\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/carabao-cup/1768"},{"id":1769,"match_id":"espn-401921842","title":"Chelsea at Liverpool","category":"carabao-cup","league_name":"Carabao Cup","league_icon":"https://a.espncdn.com/i/leaguelogos/soccer/500/41.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-401921842.png","thumbnail_path":"/thumbnails/espn-401921842.png","date":1793217600000,"date_iso":"2026-10-28T20:00:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"Liverpool","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/364.png"},"away":{"name":"Chelsea","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/363.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/carabao-cup/1769?source=0"}],"synced_at":"2026-10-28 04:00:30","iframeUrl":"https://play.aurasportsplayer.cfd/carabao-cup/1769","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/carabao-cup/1769\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/carabao-cup/1769"}]},{"category_name":"dfb-pokal","schedule":[{"id":1770,"match_id":"espn-401916921","title":"Schalke 04 at Dynamo Dresden","category":"dfb-pokal","league_name":"German Cup","league_icon":"https://a.espncdn.com/i/leaguelogos/soccer/500/2061.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-401916921.png","thumbnail_path":"/thumbnails/espn-401916921.png","date":1793206800000,"date_iso":"2026-10-28T17:00:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"Dynamo Dresden","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/7017.png"},"away":{"name":"Schalke 04","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/133.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/dfb-pokal/1770?source=0"}],"synced_at":"2026-10-28 04:00:30","iframeUrl":"https://play.aurasportsplayer.cfd/dfb-pokal/1770","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/dfb-pokal/1770\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/dfb-pokal/1770"},{"id":1771,"match_id":"espn-401917036","title":"VfL Wolfsburg at SC Freiburg","category":"dfb-pokal","league_name":"German Cup","league_icon":"https://a.espncdn.com/i/leaguelogos/soccer/500/2061.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-401917036.png","thumbnail_path":"/thumbnails/espn-401917036.png","date":1793206800000,"date_iso":"2026-10-28T17:00:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"SC Freiburg","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/126.png"},"away":{"name":"VfL Wolfsburg","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/138.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/dfb-pokal/1771?source=0"}],"synced_at":"2026-10-28 04:00:30","iframeUrl":"https://play.aurasportsplayer.cfd/dfb-pokal/1771","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/dfb-pokal/1771\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/dfb-pokal/1771"},{"id":1772,"match_id":"espn-401917032","title":"VfB Stuttgart at SC Paderborn 07","category":"dfb-pokal","league_name":"German Cup","league_icon":"https://a.espncdn.com/i/leaguelogos/soccer/500/2061.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-401917032.png","thumbnail_path":"/thumbnails/espn-401917032.png","date":1793206800000,"date_iso":"2026-10-28T17:00:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"SC Paderborn 07","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/3307.png"},"away":{"name":"VfB Stuttgart","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/134.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/dfb-pokal/1772?source=0"}],"synced_at":"2026-10-28 04:00:30","iframeUrl":"https://play.aurasportsplayer.cfd/dfb-pokal/1772","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/dfb-pokal/1772\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/dfb-pokal/1772"},{"id":1773,"match_id":"espn-401916919","title":"Hertha Berlin at SSV Jeddeloh II","category":"dfb-pokal","league_name":"German Cup","league_icon":"https://a.espncdn.com/i/leaguelogos/soccer/500/2061.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-401916919.png","thumbnail_path":"/thumbnails/espn-401916919.png","date":1793206800000,"date_iso":"2026-10-28T17:00:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"SSV Jeddeloh II","badge":null},"away":{"name":"Hertha Berlin","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/129.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/dfb-pokal/1773?source=0"}],"synced_at":"2026-10-28 04:00:30","iframeUrl":"https://play.aurasportsplayer.cfd/dfb-pokal/1773","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/dfb-pokal/1773\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/dfb-pokal/1773"},{"id":1774,"match_id":"espn-401917033","title":"1. FC Nürnberg at Bayer Leverkusen","category":"dfb-pokal","league_name":"German Cup","league_icon":"https://a.espncdn.com/i/leaguelogos/soccer/500/2061.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-401917033.png","thumbnail_path":"/thumbnails/espn-401917033.png","date":1793216700000,"date_iso":"2026-10-28T19:45:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"Bayer Leverkusen","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/131.png"},"away":{"name":"1. FC Nürnberg","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/269.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/dfb-pokal/1774?source=0"}],"synced_at":"2026-10-28 04:00:30","iframeUrl":"https://play.aurasportsplayer.cfd/dfb-pokal/1774","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/dfb-pokal/1774\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/dfb-pokal/1774"},{"id":1775,"match_id":"espn-401917035","title":"1. FC Magdeburg at Bayern Munich","category":"dfb-pokal","league_name":"German Cup","league_icon":"https://a.espncdn.com/i/leaguelogos/soccer/500/2061.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-401917035.png","thumbnail_path":"/thumbnails/espn-401917035.png","date":1793216700000,"date_iso":"2026-10-28T19:45:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"Bayern Munich","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/132.png"},"away":{"name":"1. FC Magdeburg","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/10382.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/dfb-pokal/1775?source=0"}],"synced_at":"2026-10-28 04:00:30","iframeUrl":"https://play.aurasportsplayer.cfd/dfb-pokal/1775","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/dfb-pokal/1775\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/dfb-pokal/1775"},{"id":1776,"match_id":"espn-401916922","title":"Kaiserslautern at Hannover 96","category":"dfb-pokal","league_name":"German Cup","league_icon":"https://a.espncdn.com/i/leaguelogos/soccer/500/2061.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-401916922.png","thumbnail_path":"/thumbnails/espn-401916922.png","date":1793216700000,"date_iso":"2026-10-28T19:45:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"Hannover 96","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/2428.png"},"away":{"name":"Kaiserslautern","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/130.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/dfb-pokal/1776?source=0"}],"synced_at":"2026-10-28 04:00:30","iframeUrl":"https://play.aurasportsplayer.cfd/dfb-pokal/1776","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/dfb-pokal/1776\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/dfb-pokal/1776"},{"id":1777,"match_id":"espn-401917034","title":"TSG Hoffenheim at Holstein Kiel","category":"dfb-pokal","league_name":"German Cup","league_icon":"https://a.espncdn.com/i/leaguelogos/soccer/500/2061.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-401917034.png","thumbnail_path":"/thumbnails/espn-401917034.png","date":1793216700000,"date_iso":"2026-10-28T19:45:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"Holstein Kiel","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/7884.png"},"away":{"name":"TSG Hoffenheim","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/7911.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/dfb-pokal/1777?source=0"}],"synced_at":"2026-10-28 04:00:30","iframeUrl":"https://play.aurasportsplayer.cfd/dfb-pokal/1777","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/dfb-pokal/1777\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/dfb-pokal/1777"}]},{"category_name":"nba","schedule":[{"id":1722,"match_id":"espn-401909881","title":"Miami Heat at Atlanta Hawks","category":"nba","league_name":"NBA","league_icon":"https://a.espncdn.com/i/teamlogos/leagues/500/nba.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-401909881.png","thumbnail_path":"/thumbnails/espn-401909881.png","date":1793228400000,"date_iso":"2026-10-28T23:00:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"Atlanta Hawks","badge":"https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png"},"away":{"name":"Miami Heat","badge":"https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/nba/1722?source=0"}],"synced_at":"2026-10-28 04:00:22","iframeUrl":"https://play.aurasportsplayer.cfd/nba/1722","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/nba/1722\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/nba/1722"},{"id":1723,"match_id":"espn-401909882","title":"Washington Wizards at Cleveland Cavaliers","category":"nba","league_name":"NBA","league_icon":"https://a.espncdn.com/i/teamlogos/leagues/500/nba.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-401909882.png","thumbnail_path":"/thumbnails/espn-401909882.png","date":1793228400000,"date_iso":"2026-10-28T23:00:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"Cleveland Cavaliers","badge":"https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png"},"away":{"name":"Washington Wizards","badge":"https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/nba/1723?source=0"}],"synced_at":"2026-10-28 04:00:22","iframeUrl":"https://play.aurasportsplayer.cfd/nba/1723","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/nba/1723\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/nba/1723"},{"id":1724,"match_id":"espn-401909883","title":"Charlotte Hornets at Detroit Pistons","category":"nba","league_name":"NBA","league_icon":"https://a.espncdn.com/i/teamlogos/leagues/500/nba.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-401909883.png","thumbnail_path":"/thumbnails/espn-401909883.png","date":1793228400000,"date_iso":"2026-10-28T23:00:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"Detroit Pistons","badge":"https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png"},"away":{"name":"Charlotte Hornets","badge":"https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cha.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/nba/1724?source=0"}],"synced_at":"2026-10-28 04:00:22","iframeUrl":"https://play.aurasportsplayer.cfd/nba/1724","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/nba/1724\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/nba/1724"},{"id":1725,"match_id":"espn-401909884","title":"Philadelphia 76ers at Indiana Pacers","category":"nba","league_name":"NBA","league_icon":"https://a.espncdn.com/i/teamlogos/leagues/500/nba.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-401909884.png","thumbnail_path":"/thumbnails/espn-401909884.png","date":1793228400000,"date_iso":"2026-10-28T23:00:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"Indiana Pacers","badge":"https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png"},"away":{"name":"Philadelphia 76ers","badge":"https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/nba/1725?source=0"}],"synced_at":"2026-10-28 04:00:22","iframeUrl":"https://play.aurasportsplayer.cfd/nba/1725","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/nba/1725\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/nba/1725"},{"id":1726,"match_id":"espn-401909885","title":"Orlando Magic at Toronto Raptors","category":"nba","league_name":"NBA","league_icon":"https://a.espncdn.com/i/teamlogos/leagues/500/nba.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-401909885.png","thumbnail_path":"/thumbnails/espn-401909885.png","date":1793230200000,"date_iso":"2026-10-28T23:30:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"Toronto Raptors","badge":"https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png"},"away":{"name":"Orlando Magic","badge":"https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/nba/1726?source=0"}],"synced_at":"2026-10-28 04:00:22","iframeUrl":"https://play.aurasportsplayer.cfd/nba/1726","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/nba/1726\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/nba/1726"},{"id":1727,"match_id":"espn-401909886","title":"New York Knicks at Chicago Bulls","category":"nba","league_name":"NBA","league_icon":"https://a.espncdn.com/i/teamlogos/leagues/500/nba.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-401909886.png","thumbnail_path":"/thumbnails/espn-401909886.png","date":1793232000000,"date_iso":"2026-10-29T00:00:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"Chicago Bulls","badge":"https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png"},"away":{"name":"New York Knicks","badge":"https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/nba/1727?source=0"}],"synced_at":"2026-10-28 04:00:22","iframeUrl":"https://play.aurasportsplayer.cfd/nba/1727","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/nba/1727\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/nba/1727"},{"id":1728,"match_id":"espn-401909887","title":"Houston Rockets at Milwaukee Bucks","category":"nba","league_name":"NBA","league_icon":"https://a.espncdn.com/i/teamlogos/leagues/500/nba.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-401909887.png","thumbnail_path":"/thumbnails/espn-401909887.png","date":1793232000000,"date_iso":"2026-10-29T00:00:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"Milwaukee Bucks","badge":"https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png"},"away":{"name":"Houston Rockets","badge":"https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/nba/1728?source=0"}],"synced_at":"2026-10-28 04:00:22","iframeUrl":"https://play.aurasportsplayer.cfd/nba/1728","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/nba/1728\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/nba/1728"},{"id":1729,"match_id":"espn-401909888","title":"Golden State Warriors at Minnesota Timberwolves","category":"nba","league_name":"NBA","league_icon":"https://a.espncdn.com/i/teamlogos/leagues/500/nba.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-401909888.png","thumbnail_path":"/thumbnails/espn-401909888.png","date":1793232000000,"date_iso":"2026-10-29T00:00:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"Minnesota Timberwolves","badge":"https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png"},"away":{"name":"Golden State Warriors","badge":"https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/nba/1729?source=0"}],"synced_at":"2026-10-28 04:00:22","iframeUrl":"https://play.aurasportsplayer.cfd/nba/1729","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/nba/1729\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/nba/1729"},{"id":1730,"match_id":"espn-401909889","title":"Denver Nuggets at New Orleans Pelicans","category":"nba","league_name":"NBA","league_icon":"https://a.espncdn.com/i/teamlogos/leagues/500/nba.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-401909889.png","thumbnail_path":"/thumbnails/espn-401909889.png","date":1793232000000,"date_iso":"2026-10-29T00:00:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"New Orleans Pelicans","badge":"https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png"},"away":{"name":"Denver Nuggets","badge":"https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/nba/1730?source=0"}],"synced_at":"2026-10-28 04:00:22","iframeUrl":"https://play.aurasportsplayer.cfd/nba/1730","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/nba/1730\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/nba/1730"},{"id":1731,"match_id":"espn-401909890","title":"San Antonio Spurs at Utah Jazz","category":"nba","league_name":"NBA","league_icon":"https://a.espncdn.com/i/teamlogos/leagues/500/nba.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-401909890.png","thumbnail_path":"/thumbnails/espn-401909890.png","date":1793235600000,"date_iso":"2026-10-29T01:00:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"Utah Jazz","badge":"https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png"},"away":{"name":"San Antonio Spurs","badge":"https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/nba/1731?source=0"}],"synced_at":"2026-10-28 04:00:22","iframeUrl":"https://play.aurasportsplayer.cfd/nba/1731","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/nba/1731\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/nba/1731"},{"id":1732,"match_id":"espn-401909891","title":"Oklahoma City Thunder at Dallas Mavericks","category":"nba","league_name":"NBA","league_icon":"https://a.espncdn.com/i/teamlogos/leagues/500/nba.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-401909891.png","thumbnail_path":"/thumbnails/espn-401909891.png","date":1793237400000,"date_iso":"2026-10-29T01:30:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"Dallas Mavericks","badge":"https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png"},"away":{"name":"Oklahoma City Thunder","badge":"https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/nba/1732?source=0"}],"synced_at":"2026-10-28 04:00:22","iframeUrl":"https://play.aurasportsplayer.cfd/nba/1732","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/nba/1732\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/nba/1732"},{"id":1733,"match_id":"espn-401909892","title":"Los Angeles Lakers at LA Clippers","category":"nba","league_name":"NBA","league_icon":"https://a.espncdn.com/i/teamlogos/leagues/500/nba.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-401909892.png","thumbnail_path":"/thumbnails/espn-401909892.png","date":1793241000000,"date_iso":"2026-10-29T02:30:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"LA Clippers","badge":"https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png"},"away":{"name":"Los Angeles Lakers","badge":"https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/nba/1733?source=0"}],"synced_at":"2026-10-28 04:00:22","iframeUrl":"https://play.aurasportsplayer.cfd/nba/1733","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/nba/1733\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/nba/1733"}]},{"category_name":"nhl","schedule":[{"id":1735,"match_id":"espn-401892596","title":"Philadelphia Flyers at Washington Capitals","category":"nhl","league_name":"NHL","league_icon":"https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-401892596.png","thumbnail_path":"/thumbnails/espn-401892596.png","date":1793230200000,"date_iso":"2026-10-28T23:30:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"Washington Capitals","badge":"https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/wsh.png"},"away":{"name":"Philadelphia Flyers","badge":"https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/phi.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/nhl/1735?source=0"}],"synced_at":"2026-10-28 04:00:23","iframeUrl":"https://play.aurasportsplayer.cfd/nhl/1735","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/nhl/1735\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/nhl/1735"},{"id":1736,"match_id":"espn-401892597","title":"Calgary Flames at Edmonton Oilers","category":"nhl","league_name":"NHL","league_icon":"https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-401892597.png","thumbnail_path":"/thumbnails/espn-401892597.png","date":1793233800000,"date_iso":"2026-10-29T00:30:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"Edmonton Oilers","badge":"https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/edm.png"},"away":{"name":"Calgary Flames","badge":"https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/cgy.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/nhl/1736?source=0"}],"synced_at":"2026-10-28 04:00:23","iframeUrl":"https://play.aurasportsplayer.cfd/nhl/1736","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/nhl/1736\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/nhl/1736"},{"id":1737,"match_id":"espn-401892598","title":"New Jersey Devils at Colorado Avalanche","category":"nhl","league_name":"NHL","league_icon":"https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-401892598.png","thumbnail_path":"/thumbnails/espn-401892598.png","date":1793235600000,"date_iso":"2026-10-29T01:00:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"Colorado Avalanche","badge":"https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/col.png"},"away":{"name":"New Jersey Devils","badge":"https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nj.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/nhl/1737?source=0"}],"synced_at":"2026-10-28 04:00:23","iframeUrl":"https://play.aurasportsplayer.cfd/nhl/1737","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/nhl/1737\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/nhl/1737"},{"id":1738,"match_id":"espn-401892599","title":"Toronto Maple Leafs at Seattle Kraken","category":"nhl","league_name":"NHL","league_icon":"https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-401892599.png","thumbnail_path":"/thumbnails/espn-401892599.png","date":1793239200000,"date_iso":"2026-10-29T02:00:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"Seattle Kraken","badge":"https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/sea.png"},"away":{"name":"Toronto Maple Leafs","badge":"https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/tor.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/nhl/1738?source=0"}],"synced_at":"2026-10-28 04:00:23","iframeUrl":"https://play.aurasportsplayer.cfd/nhl/1738","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/nhl/1738\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/nhl/1738"}]},{"category_name":"cfb","schedule":[{"id":1739,"match_id":"espn-401871058","title":"Kennesaw State Owls at Middle Tennessee Blue Raiders","category":"cfb","league_name":"NCAAF","league_icon":"https://a.espncdn.com/redesign/assets/img/icons/NCAASports_Football.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-401871058.png","thumbnail_path":"/thumbnails/espn-401871058.png","date":1793228400000,"date_iso":"2026-10-28T23:00:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"Middle Tennessee Blue Raiders","badge":"https://a.espncdn.com/i/teamlogos/ncaa/500/2393.png"},"away":{"name":"Kennesaw State Owls","badge":"https://a.espncdn.com/i/teamlogos/ncaa/500/338.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/cfb/1739?source=0"}],"synced_at":"2026-10-28 04:00:24","iframeUrl":"https://play.aurasportsplayer.cfd/cfb/1739","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/cfb/1739\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/cfb/1739"},{"id":1740,"match_id":"espn-401871057","title":"Jacksonville State Gamecocks at New Mexico State Aggies","category":"cfb","league_name":"NCAAF","league_icon":"https://a.espncdn.com/redesign/assets/img/icons/NCAASports_Football.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-401871057.png","thumbnail_path":"/thumbnails/espn-401871057.png","date":1793232000000,"date_iso":"2026-10-29T00:00:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"New Mexico State Aggies","badge":"https://a.espncdn.com/i/teamlogos/ncaa/500/166.png"},"away":{"name":"Jacksonville State Gamecocks","badge":"https://a.espncdn.com/i/teamlogos/ncaa/500/55.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/cfb/1740?source=0"}],"synced_at":"2026-10-28 04:00:24","iframeUrl":"https://play.aurasportsplayer.cfd/cfb/1740","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/cfb/1740\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/cfb/1740"}]},{"category_name":"brazil-serie-a","schedule":[{"id":1760,"match_id":"espn-401841289","title":"Internacional at Fluminense","category":"brazil-serie-a","league_name":"Brazil Serie A","league_icon":"https://a.espncdn.com/i/leaguelogos/soccer/500/85.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-401841289.png","thumbnail_path":"/thumbnails/espn-401841289.png","date":1793226600000,"date_iso":"2026-10-28T22:30:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"Fluminense","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/3445.png"},"away":{"name":"Internacional","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/1936.png"}},"sources":[{"name":"Stream 1","id":"espn-401841289","url":"https://play.aurasportsplayer.cfd/brazil-serie-a/1760?source=0"}],"synced_at":"2026-10-28 04:00:29","iframeUrl":"https://play.aurasportsplayer.cfd/brazil-serie-a/1760","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/brazil-serie-a/1760\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/brazil-serie-a/1760"},{"id":1761,"match_id":"espn-401841291","title":"Chapecoense at Red Bull Bragantino","category":"brazil-serie-a","league_name":"Brazil Serie A","league_icon":"https://a.espncdn.com/i/leaguelogos/soccer/500/85.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-401841291.png","thumbnail_path":"/thumbnails/espn-401841291.png","date":1793226600000,"date_iso":"2026-10-28T22:30:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"Red Bull Bragantino","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/6079.png"},"away":{"name":"Chapecoense","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/9318.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/brazil-serie-a/1761?source=0"}],"synced_at":"2026-10-28 04:00:29","iframeUrl":"https://play.aurasportsplayer.cfd/brazil-serie-a/1761","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/brazil-serie-a/1761\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/brazil-serie-a/1761"},{"id":1762,"match_id":"espn-401841293","title":"Palmeiras at Santos","category":"brazil-serie-a","league_name":"Brazil Serie A","league_icon":"https://a.espncdn.com/i/leaguelogos/soccer/500/85.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-401841293.png","thumbnail_path":"/thumbnails/espn-401841293.png","date":1793226600000,"date_iso":"2026-10-28T22:30:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"Santos","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/2674.png"},"away":{"name":"Palmeiras","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/2029.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/brazil-serie-a/1762?source=0"}],"synced_at":"2026-10-28 04:00:29","iframeUrl":"https://play.aurasportsplayer.cfd/brazil-serie-a/1762","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/brazil-serie-a/1762\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/brazil-serie-a/1762"},{"id":1763,"match_id":"espn-401841296","title":"São Paulo at Bahia","category":"brazil-serie-a","league_name":"Brazil Serie A","league_icon":"https://a.espncdn.com/i/leaguelogos/soccer/500/85.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-401841296.png","thumbnail_path":"/thumbnails/espn-401841296.png","date":1793233800000,"date_iso":"2026-10-29T00:30:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"Bahia","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/9967.png"},"away":{"name":"São Paulo","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/2026.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/brazil-serie-a/1763?source=0"}],"synced_at":"2026-10-28 04:00:29","iframeUrl":"https://play.aurasportsplayer.cfd/brazil-serie-a/1763","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/brazil-serie-a/1763\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/brazil-serie-a/1763"},{"id":1764,"match_id":"espn-401841297","title":"Botafogo at Remo","category":"brazil-serie-a","league_name":"Brazil Serie A","league_icon":"https://a.espncdn.com/i/leaguelogos/soccer/500/85.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-401841297.png","thumbnail_path":"/thumbnails/espn-401841297.png","date":1793233800000,"date_iso":"2026-10-29T00:30:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"Remo","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/4936.png"},"away":{"name":"Botafogo","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/6086.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/brazil-serie-a/1764?source=0"}],"synced_at":"2026-10-28 04:00:29","iframeUrl":"https://play.aurasportsplayer.cfd/brazil-serie-a/1764","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/brazil-serie-a/1764\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/brazil-serie-a/1764"}]},{"category_name":"mls","schedule":[{"id":1741,"match_id":"espn-761907","title":"CF Montréal at Charlotte FC","category":"mls","league_name":"MLS","league_icon":"https://a.espncdn.com/i/leaguelogos/soccer/500/19.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-761907.png","thumbnail_path":"/thumbnails/espn-761907.png","date":1793230200000,"date_iso":"2026-10-28T23:30:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"Charlotte FC","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/21300.png"},"away":{"name":"CF Montréal","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/9720.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/mls/1741?source=0"}],"synced_at":"2026-10-28 04:00:25","iframeUrl":"https://play.aurasportsplayer.cfd/mls/1741","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/mls/1741\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/mls/1741"},{"id":1742,"match_id":"espn-761908","title":"FC Cincinnati at Inter Miami CF","category":"mls","league_name":"MLS","league_icon":"https://a.espncdn.com/i/leaguelogos/soccer/500/19.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-761908.png","thumbnail_path":"/thumbnails/espn-761908.png","date":1793230200000,"date_iso":"2026-10-28T23:30:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"Inter Miami CF","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/20232.png"},"away":{"name":"FC Cincinnati","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/18267.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/mls/1742?source=0"}],"synced_at":"2026-10-28 04:00:25","iframeUrl":"https://play.aurasportsplayer.cfd/mls/1742","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/mls/1742\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/mls/1742"},{"id":1743,"match_id":"espn-761909","title":"Red Bull New York at New England Revolution","category":"mls","league_name":"MLS","league_icon":"https://a.espncdn.com/i/leaguelogos/soccer/500/19.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-761909.png","thumbnail_path":"/thumbnails/espn-761909.png","date":1793230200000,"date_iso":"2026-10-28T23:30:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"New England Revolution","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/189.png"},"away":{"name":"Red Bull New York","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/190.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/mls/1743?source=0"}],"synced_at":"2026-10-28 04:00:26","iframeUrl":"https://play.aurasportsplayer.cfd/mls/1743","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/mls/1743\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/mls/1743"},{"id":1744,"match_id":"espn-761905","title":"Atlanta United FC at New York City FC","category":"mls","league_name":"MLS","league_icon":"https://a.espncdn.com/i/leaguelogos/soccer/500/19.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-761905.png","thumbnail_path":"/thumbnails/espn-761905.png","date":1793230200000,"date_iso":"2026-10-28T23:30:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"New York City FC","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/17606.png"},"away":{"name":"Atlanta United FC","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/18418.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/mls/1744?source=0"}],"synced_at":"2026-10-28 04:00:26","iframeUrl":"https://play.aurasportsplayer.cfd/mls/1744","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/mls/1744\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/mls/1744"},{"id":1745,"match_id":"espn-761906","title":"D.C. United at Toronto FC","category":"mls","league_name":"MLS","league_icon":"https://a.espncdn.com/i/leaguelogos/soccer/500/19.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-761906.png","thumbnail_path":"/thumbnails/espn-761906.png","date":1793230200000,"date_iso":"2026-10-28T23:30:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"Toronto FC","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/7318.png"},"away":{"name":"D.C. United","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/193.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/mls/1745?source=0"}],"synced_at":"2026-10-28 04:00:26","iframeUrl":"https://play.aurasportsplayer.cfd/mls/1745","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/mls/1745\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/mls/1745"},{"id":1746,"match_id":"espn-761910","title":"Real Salt Lake at Austin FC","category":"mls","league_name":"MLS","league_icon":"https://a.espncdn.com/i/leaguelogos/soccer/500/19.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-761910.png","thumbnail_path":"/thumbnails/espn-761910.png","date":1793233800000,"date_iso":"2026-10-29T00:30:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"Austin FC","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/20906.png"},"away":{"name":"Real Salt Lake","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/4771.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/mls/1746?source=0"}],"synced_at":"2026-10-28 04:00:26","iframeUrl":"https://play.aurasportsplayer.cfd/mls/1746","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/mls/1746\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/mls/1746"},{"id":1747,"match_id":"espn-761911","title":"Orlando City SC at Chicago Fire FC","category":"mls","league_name":"MLS","league_icon":"https://a.espncdn.com/i/leaguelogos/soccer/500/19.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-761911.png","thumbnail_path":"/thumbnails/espn-761911.png","date":1793233800000,"date_iso":"2026-10-29T00:30:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"Chicago Fire FC","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/182.png"},"away":{"name":"Orlando City SC","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/12011.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/mls/1747?source=0"}],"synced_at":"2026-10-28 04:00:26","iframeUrl":"https://play.aurasportsplayer.cfd/mls/1747","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/mls/1747\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/mls/1747"},{"id":1748,"match_id":"espn-761912","title":"Columbus Crew at FC Dallas","category":"mls","league_name":"MLS","league_icon":"https://a.espncdn.com/i/leaguelogos/soccer/500/19.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-761912.png","thumbnail_path":"/thumbnails/espn-761912.png","date":1793233800000,"date_iso":"2026-10-29T00:30:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"FC Dallas","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/185.png"},"away":{"name":"Columbus Crew","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/183.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/mls/1748?source=0"}],"synced_at":"2026-10-28 04:00:26","iframeUrl":"https://play.aurasportsplayer.cfd/mls/1748","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/mls/1748\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/mls/1748"},{"id":1749,"match_id":"espn-761913","title":"Sporting Kansas City at Minnesota United FC","category":"mls","league_name":"MLS","league_icon":"https://a.espncdn.com/i/leaguelogos/soccer/500/19.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-761913.png","thumbnail_path":"/thumbnails/espn-761913.png","date":1793233800000,"date_iso":"2026-10-29T00:30:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"Minnesota United FC","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/17362.png"},"away":{"name":"Sporting Kansas City","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/186.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/mls/1749?source=0"}],"synced_at":"2026-10-28 04:00:26","iframeUrl":"https://play.aurasportsplayer.cfd/mls/1749","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/mls/1749\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/mls/1749"},{"id":1750,"match_id":"espn-761914","title":"Philadelphia Union at Nashville SC","category":"mls","league_name":"MLS","league_icon":"https://a.espncdn.com/i/leaguelogos/soccer/500/19.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-761914.png","thumbnail_path":"/thumbnails/espn-761914.png","date":1793233800000,"date_iso":"2026-10-29T00:30:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"Nashville SC","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/18986.png"},"away":{"name":"Philadelphia Union","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/10739.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/mls/1750?source=0"}],"synced_at":"2026-10-28 04:00:26","iframeUrl":"https://play.aurasportsplayer.cfd/mls/1750","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/mls/1750\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/mls/1750"},{"id":1751,"match_id":"espn-761915","title":"Portland Timbers at St. Louis CITY SC","category":"mls","league_name":"MLS","league_icon":"https://a.espncdn.com/i/leaguelogos/soccer/500/19.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-761915.png","thumbnail_path":"/thumbnails/espn-761915.png","date":1793233800000,"date_iso":"2026-10-29T00:30:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"St. Louis CITY SC","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/21812.png"},"away":{"name":"Portland Timbers","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/9723.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/mls/1751?source=0"}],"synced_at":"2026-10-28 04:00:26","iframeUrl":"https://play.aurasportsplayer.cfd/mls/1751","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/mls/1751\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/mls/1751"},{"id":1752,"match_id":"espn-761917","title":"Colorado Rapids at San Jose Earthquakes","category":"mls","league_name":"MLS","league_icon":"https://a.espncdn.com/i/leaguelogos/soccer/500/19.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-761917.png","thumbnail_path":"/thumbnails/espn-761917.png","date":1793241000000,"date_iso":"2026-10-29T02:30:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"San Jose Earthquakes","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/191.png"},"away":{"name":"Colorado Rapids","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/184.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/mls/1752?source=0"}],"synced_at":"2026-10-28 04:00:26","iframeUrl":"https://play.aurasportsplayer.cfd/mls/1752","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/mls/1752\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/mls/1752"},{"id":1753,"match_id":"espn-761916","title":"Houston Dynamo FC at Seattle Sounders FC","category":"mls","league_name":"MLS","league_icon":"https://a.espncdn.com/i/leaguelogos/soccer/500/19.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-761916.png","thumbnail_path":"/thumbnails/espn-761916.png","date":1793241000000,"date_iso":"2026-10-29T02:30:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"Seattle Sounders FC","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/9726.png"},"away":{"name":"Houston Dynamo FC","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/6077.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/mls/1753?source=0"}],"synced_at":"2026-10-28 04:00:26","iframeUrl":"https://play.aurasportsplayer.cfd/mls/1753","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/mls/1753\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/mls/1753"},{"id":1754,"match_id":"espn-761918","title":"San Diego FC at Vancouver Whitecaps","category":"mls","league_name":"MLS","league_icon":"https://a.espncdn.com/i/leaguelogos/soccer/500/19.png","thumbnail":"http://panel.aurasports.xyz/thumbnails/espn-761918.png","thumbnail_path":"/thumbnails/espn-761918.png","date":1793241000000,"date_iso":"2026-10-29T02:30:00.000Z","status":"scheduled","popular":false,"user_count":0,"userCount":0,"teams":{"home":{"name":"Vancouver Whitecaps","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/9727.png"},"away":{"name":"San Diego FC","badge":"https://a.espncdn.com/i/teamlogos/soccer/500/22529.png"}},"sources":[{"name":"Stream 1","id":"0","url":"https://play.aurasportsplayer.cfd/mls/1754?source=0"}],"synced_at":"2026-10-28 04:00:26","iframeUrl":"https://play.aurasportsplayer.cfd/mls/1754","embedCode":"<iframe src=\"https://play.aurasportsplayer.cfd/mls/1754\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>","watchUrl":"https://play.aurasportsplayer.cfd/mls/1754"}]}]
+[
+  {
+    "category_name": "uefa-nations-league",
+    "schedule": [
+      {
+        "id": "espn-401861146",
+        "match_id": "espn-401861146",
+        "title": "Cyprus at Armenia",
+        "category": "uefa-nations-league",
+        "league_name": "UEFA Nations League",
+        "league_icon": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
+        "thumbnail": "https://auracdn.pages.dev/espn-401861146.png",
+        "thumbnail_path": "/espn-401861146.png",
+        "date": 1794502800000,
+        "date_iso": "2026-11-12T17:00:00.000Z",
+        "status": "scheduled",
+        "popular": false,
+        "user_count": 0,
+        "userCount": 0,
+        "teams": {
+          "home": {
+            "name": "Armenia",
+            "badge": "https://a.espncdn.com/i/teamlogos/countries/500/fifa.armenia.png"
+          },
+          "away": {
+            "name": "Cyprus",
+            "badge": "https://a.espncdn.com/i/teamlogos/countries/500/cyp.png"
+          }
+        },
+        "sources": [
+          {
+            "name": "Stream 1",
+            "id": "espn-401861146",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401861146?source=0"
+          },
+          {
+            "name": "Backup",
+            "id": "c7bc18b5-c2d5-4c81-b825-2cfd6de0835a",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401861146?source=1"
+          }
+        ],
+        "synced_at": "2026-11-12 11:42:49",
+        "iframeUrl": "https://play.aurasportsplayer.cfd/event/espn-401861146",
+        "embedCode": "<iframe src=\"https://play.aurasportsplayer.cfd/event/espn-401861146\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>",
+        "watchUrl": "https://play.aurasportsplayer.cfd/event/espn-401861146"
+      },
+      {
+        "id": "espn-401861145",
+        "match_id": "espn-401861145",
+        "title": "Belgium at Türkiye",
+        "category": "uefa-nations-league",
+        "league_name": "UEFA Nations League",
+        "league_icon": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
+        "thumbnail": "https://auracdn.pages.dev/espn-401861145.png",
+        "thumbnail_path": "/espn-401861145.png",
+        "date": 1794502800000,
+        "date_iso": "2026-11-12T17:00:00.000Z",
+        "status": "scheduled",
+        "popular": false,
+        "user_count": 0,
+        "userCount": 0,
+        "teams": {
+          "home": {
+            "name": "Türkiye",
+            "badge": "https://a.espncdn.com/i/teamlogos/countries/500/tur.png"
+          },
+          "away": {
+            "name": "Belgium",
+            "badge": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png"
+          }
+        },
+        "sources": [
+          {
+            "name": "Stream 1",
+            "id": "espn-401861145",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401861145?source=0"
+          },
+          {
+            "name": "Backup",
+            "id": "4be063cd-901e-48e7-89d4-c5246a3b7657",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401861145?source=1"
+          }
+        ],
+        "synced_at": "2026-11-12 11:42:49",
+        "iframeUrl": "https://play.aurasportsplayer.cfd/event/espn-401861145",
+        "embedCode": "<iframe src=\"https://play.aurasportsplayer.cfd/event/espn-401861145\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>",
+        "watchUrl": "https://play.aurasportsplayer.cfd/event/espn-401861145"
+      },
+      {
+        "id": "espn-401861147",
+        "match_id": "espn-401861147",
+        "title": "Finland at Albania",
+        "category": "uefa-nations-league",
+        "league_name": "UEFA Nations League",
+        "league_icon": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
+        "thumbnail": "https://auracdn.pages.dev/espn-401861147.png",
+        "thumbnail_path": "/espn-401861147.png",
+        "date": 1794512700000,
+        "date_iso": "2026-11-12T19:45:00.000Z",
+        "status": "scheduled",
+        "popular": false,
+        "user_count": 1,
+        "userCount": 1,
+        "teams": {
+          "home": {
+            "name": "Albania",
+            "badge": "https://a.espncdn.com/i/teamlogos/countries/500/alb.png"
+          },
+          "away": {
+            "name": "Finland",
+            "badge": "https://a.espncdn.com/i/teamlogos/countries/500/fin.png"
+          }
+        },
+        "sources": [
+          {
+            "name": "Stream 1",
+            "id": "espn-401861147",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401861147?source=0"
+          },
+          {
+            "name": "Backup",
+            "id": "60c31a6e-aa12-45dd-902e-368415d970aa",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401861147?source=1"
+          }
+        ],
+        "synced_at": "2026-11-12 11:42:49",
+        "iframeUrl": "https://play.aurasportsplayer.cfd/event/espn-401861147",
+        "embedCode": "<iframe src=\"https://play.aurasportsplayer.cfd/event/espn-401861147\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>",
+        "watchUrl": "https://play.aurasportsplayer.cfd/event/espn-401861147"
+      },
+      {
+        "id": "espn-401861148",
+        "match_id": "espn-401861148",
+        "title": "Spain at Czechia",
+        "category": "uefa-nations-league",
+        "league_name": "UEFA Nations League",
+        "league_icon": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
+        "thumbnail": "https://auracdn.pages.dev/espn-401861148.png",
+        "thumbnail_path": "/espn-401861148.png",
+        "date": 1794512700000,
+        "date_iso": "2026-11-12T19:45:00.000Z",
+        "status": "scheduled",
+        "popular": false,
+        "user_count": 0,
+        "userCount": 0,
+        "teams": {
+          "home": {
+            "name": "Czechia",
+            "badge": "https://a.espncdn.com/i/teamlogos/countries/500/cze.png"
+          },
+          "away": {
+            "name": "Spain",
+            "badge": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png"
+          }
+        },
+        "sources": [
+          {
+            "name": "Stream 1",
+            "id": "espn-401861148",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401861148?source=0"
+          },
+          {
+            "name": "Backup",
+            "id": "77e1eb26-ff5d-4af6-acc8-8f8db134178f",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401861148?source=1"
+          }
+        ],
+        "synced_at": "2026-11-12 11:42:49",
+        "iframeUrl": "https://play.aurasportsplayer.cfd/event/espn-401861148",
+        "embedCode": "<iframe src=\"https://play.aurasportsplayer.cfd/event/espn-401861148\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>",
+        "watchUrl": "https://play.aurasportsplayer.cfd/event/espn-401861148"
+      },
+      {
+        "id": "espn-401861150",
+        "match_id": "espn-401861150",
+        "title": "Croatia at England",
+        "category": "uefa-nations-league",
+        "league_name": "UEFA Nations League",
+        "league_icon": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
+        "thumbnail": "https://auracdn.pages.dev/espn-401861150.png",
+        "thumbnail_path": "/espn-401861150.png",
+        "date": 1794512700000,
+        "date_iso": "2026-11-12T19:45:00.000Z",
+        "status": "scheduled",
+        "popular": false,
+        "user_count": 0,
+        "userCount": 0,
+        "teams": {
+          "home": {
+            "name": "England",
+            "badge": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png"
+          },
+          "away": {
+            "name": "Croatia",
+            "badge": "https://a.espncdn.com/i/teamlogos/countries/500/cro.png"
+          }
+        },
+        "sources": [
+          {
+            "name": "Stream 1",
+            "id": "espn-401861150",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401861150?source=0"
+          },
+          {
+            "name": "Backup",
+            "id": "7b0a9d3d-9e42-4c34-9d5d-3864fb3c3ff7",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401861150?source=1"
+          }
+        ],
+        "synced_at": "2026-11-12 11:42:49",
+        "iframeUrl": "https://play.aurasportsplayer.cfd/event/espn-401861150",
+        "embedCode": "<iframe src=\"https://play.aurasportsplayer.cfd/event/espn-401861150\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>",
+        "watchUrl": "https://play.aurasportsplayer.cfd/event/espn-401861150"
+      },
+      {
+        "id": "espn-401861151",
+        "match_id": "espn-401861151",
+        "title": "France at Italy",
+        "category": "uefa-nations-league",
+        "league_name": "UEFA Nations League",
+        "league_icon": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
+        "thumbnail": "https://auracdn.pages.dev/espn-401861151.png",
+        "thumbnail_path": "/espn-401861151.png",
+        "date": 1794512700000,
+        "date_iso": "2026-11-12T19:45:00.000Z",
+        "status": "scheduled",
+        "popular": false,
+        "user_count": 0,
+        "userCount": 0,
+        "teams": {
+          "home": {
+            "name": "Italy",
+            "badge": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png"
+          },
+          "away": {
+            "name": "France",
+            "badge": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png"
+          }
+        },
+        "sources": [
+          {
+            "name": "Stream 1",
+            "id": "espn-401861151",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401861151?source=0"
+          },
+          {
+            "name": "Backup",
+            "id": "0bc9d662-ba1b-4d36-b570-79ee50c48c19",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401861151?source=1"
+          }
+        ],
+        "synced_at": "2026-11-12 11:42:49",
+        "iframeUrl": "https://play.aurasportsplayer.cfd/event/espn-401861151",
+        "embedCode": "<iframe src=\"https://play.aurasportsplayer.cfd/event/espn-401861151\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>",
+        "watchUrl": "https://play.aurasportsplayer.cfd/event/espn-401861151"
+      },
+      {
+        "id": "espn-401861152",
+        "match_id": "espn-401861152",
+        "title": "Latvia at Montenegro",
+        "category": "uefa-nations-league",
+        "league_name": "UEFA Nations League",
+        "league_icon": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
+        "thumbnail": "https://auracdn.pages.dev/espn-401861152.png",
+        "thumbnail_path": "/espn-401861152.png",
+        "date": 1794512700000,
+        "date_iso": "2026-11-12T19:45:00.000Z",
+        "status": "scheduled",
+        "popular": false,
+        "user_count": 0,
+        "userCount": 0,
+        "teams": {
+          "home": {
+            "name": "Montenegro",
+            "badge": "https://a.espncdn.com/i/teamlogos/countries/500/mtg.png"
+          },
+          "away": {
+            "name": "Latvia",
+            "badge": "https://a.espncdn.com/i/teamlogos/countries/500/lva.png"
+          }
+        },
+        "sources": [
+          {
+            "name": "Stream 1",
+            "id": "espn-401861152",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401861152?source=0"
+          },
+          {
+            "name": "Backup",
+            "id": "c9be11ed-7150-4f2d-94d8-fd230ac7397b",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401861152?source=1"
+          }
+        ],
+        "synced_at": "2026-11-12 11:42:49",
+        "iframeUrl": "https://play.aurasportsplayer.cfd/event/espn-401861152",
+        "embedCode": "<iframe src=\"https://play.aurasportsplayer.cfd/event/espn-401861152\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>",
+        "watchUrl": "https://play.aurasportsplayer.cfd/event/espn-401861152"
+      },
+      {
+        "id": "espn-401861149",
+        "match_id": "espn-401861149",
+        "title": "Belarus at San Marino",
+        "category": "uefa-nations-league",
+        "league_name": "UEFA Nations League",
+        "league_icon": "https://a.espncdn.com/i/leaguelogos/soccer/500/2395.png",
+        "thumbnail": "https://auracdn.pages.dev/espn-401861149.png",
+        "thumbnail_path": "/espn-401861149.png",
+        "date": 1794512700000,
+        "date_iso": "2026-11-12T19:45:00.000Z",
+        "status": "scheduled",
+        "popular": false,
+        "user_count": 0,
+        "userCount": 0,
+        "teams": {
+          "home": {
+            "name": "San Marino",
+            "badge": "https://a.espncdn.com/i/teamlogos/countries/500/smr.png"
+          },
+          "away": {
+            "name": "Belarus",
+            "badge": "https://a.espncdn.com/i/teamlogos/countries/500/blr.png"
+          }
+        },
+        "sources": [
+          {
+            "name": "Stream 1",
+            "id": "espn-401861149",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401861149?source=0"
+          },
+          {
+            "name": "Backup",
+            "id": "2659804e-4cfe-437d-8edd-e0ae6b5dc19c",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401861149?source=1"
+          }
+        ],
+        "synced_at": "2026-11-12 11:42:49",
+        "iframeUrl": "https://play.aurasportsplayer.cfd/event/espn-401861149",
+        "embedCode": "<iframe src=\"https://play.aurasportsplayer.cfd/event/espn-401861149\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>",
+        "watchUrl": "https://play.aurasportsplayer.cfd/event/espn-401861149"
+      }
+    ]
+  },
+  {
+    "category_name": "nfl",
+    "schedule": [
+      {
+        "id": "espn-401873052",
+        "match_id": "espn-401873052",
+        "title": "Washington Commanders at New York Giants",
+        "category": "nfl",
+        "league_name": "NFL",
+        "league_icon": "https://a.espncdn.com/i/teamlogos/leagues/500/nfl.png",
+        "thumbnail": "https://auracdn.pages.dev/espn-401873052.png",
+        "thumbnail_path": "/espn-401873052.png",
+        "date": 1794532500000,
+        "date_iso": "2026-11-13T01:15:00.000Z",
+        "status": "scheduled",
+        "popular": false,
+        "user_count": 0,
+        "userCount": 0,
+        "teams": {
+          "home": {
+            "name": "New York Giants",
+            "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png"
+          },
+          "away": {
+            "name": "Washington Commanders",
+            "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png"
+          }
+        },
+        "sources": [
+          {
+            "name": "Stream 1",
+            "id": "espn-401873052",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401873052?source=0"
+          },
+          {
+            "name": "Backup",
+            "id": "db581ab1-218a-44da-abed-c9a031785592",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401873052?source=1"
+          }
+        ],
+        "synced_at": "2026-11-12 05:00:00",
+        "iframeUrl": "https://play.aurasportsplayer.cfd/event/espn-401873052",
+        "embedCode": "<iframe src=\"https://play.aurasportsplayer.cfd/event/espn-401873052\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>",
+        "watchUrl": "https://play.aurasportsplayer.cfd/event/espn-401873052"
+      }
+    ]
+  },
+  {
+    "category_name": "nba",
+    "schedule": [
+      {
+        "id": "espn-401909976",
+        "match_id": "espn-401909976",
+        "title": "Toronto Raptors at Philadelphia 76ers",
+        "category": "nba",
+        "league_name": "NBA",
+        "league_icon": "https://a.espncdn.com/i/teamlogos/leagues/500/nba.png",
+        "thumbnail": "https://auracdn.pages.dev/espn-401909976.png",
+        "thumbnail_path": "/espn-401909976.png",
+        "date": 1794528000000,
+        "date_iso": "2026-11-13T00:00:00.000Z",
+        "status": "scheduled",
+        "popular": false,
+        "user_count": 0,
+        "userCount": 0,
+        "teams": {
+          "home": {
+            "name": "Philadelphia 76ers",
+            "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png"
+          },
+          "away": {
+            "name": "Toronto Raptors",
+            "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png"
+          }
+        },
+        "sources": [
+          {
+            "name": "Stream 1",
+            "id": "espn-401909976",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401909976?source=0"
+          },
+          {
+            "name": "Backup",
+            "id": "4ee78e0b-eea3-451d-968a-09025e62da1a",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401909976?source=1"
+          }
+        ],
+        "synced_at": "2026-11-12 05:00:01",
+        "iframeUrl": "https://play.aurasportsplayer.cfd/event/espn-401909976",
+        "embedCode": "<iframe src=\"https://play.aurasportsplayer.cfd/event/espn-401909976\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>",
+        "watchUrl": "https://play.aurasportsplayer.cfd/event/espn-401909976"
+      },
+      {
+        "id": "espn-401909977",
+        "match_id": "espn-401909977",
+        "title": "Detroit Pistons at Washington Wizards",
+        "category": "nba",
+        "league_name": "NBA",
+        "league_icon": "https://a.espncdn.com/i/teamlogos/leagues/500/nba.png",
+        "thumbnail": "https://auracdn.pages.dev/espn-401909977.png",
+        "thumbnail_path": "/espn-401909977.png",
+        "date": 1794528000000,
+        "date_iso": "2026-11-13T00:00:00.000Z",
+        "status": "scheduled",
+        "popular": false,
+        "user_count": 0,
+        "userCount": 0,
+        "teams": {
+          "home": {
+            "name": "Washington Wizards",
+            "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png"
+          },
+          "away": {
+            "name": "Detroit Pistons",
+            "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png"
+          }
+        },
+        "sources": [
+          {
+            "name": "Stream 1",
+            "id": "espn-401909977",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401909977?source=0"
+          },
+          {
+            "name": "Backup",
+            "id": "759fda5d-fcd4-4ad8-86b8-1cc40f77528c",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401909977?source=1"
+          }
+        ],
+        "synced_at": "2026-11-12 05:00:01",
+        "iframeUrl": "https://play.aurasportsplayer.cfd/event/espn-401909977",
+        "embedCode": "<iframe src=\"https://play.aurasportsplayer.cfd/event/espn-401909977\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>",
+        "watchUrl": "https://play.aurasportsplayer.cfd/event/espn-401909977"
+      },
+      {
+        "id": "espn-401909978",
+        "match_id": "espn-401909978",
+        "title": "Dallas Mavericks at Minnesota Timberwolves",
+        "category": "nba",
+        "league_name": "NBA",
+        "league_icon": "https://a.espncdn.com/i/teamlogos/leagues/500/nba.png",
+        "thumbnail": "https://auracdn.pages.dev/espn-401909978.png",
+        "thumbnail_path": "/espn-401909978.png",
+        "date": 1794531600000,
+        "date_iso": "2026-11-13T01:00:00.000Z",
+        "status": "scheduled",
+        "popular": false,
+        "user_count": 0,
+        "userCount": 0,
+        "teams": {
+          "home": {
+            "name": "Minnesota Timberwolves",
+            "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png"
+          },
+          "away": {
+            "name": "Dallas Mavericks",
+            "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png"
+          }
+        },
+        "sources": [
+          {
+            "name": "Stream 1",
+            "id": "espn-401909978",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401909978?source=0"
+          },
+          {
+            "name": "Backup",
+            "id": "0d33347e-74e6-4bee-9783-00c93fbd1eb2",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401909978?source=1"
+          }
+        ],
+        "synced_at": "2026-11-12 05:00:01",
+        "iframeUrl": "https://play.aurasportsplayer.cfd/event/espn-401909978",
+        "embedCode": "<iframe src=\"https://play.aurasportsplayer.cfd/event/espn-401909978\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>",
+        "watchUrl": "https://play.aurasportsplayer.cfd/event/espn-401909978"
+      },
+      {
+        "id": "espn-401909979",
+        "match_id": "espn-401909979",
+        "title": "Charlotte Hornets at Phoenix Suns",
+        "category": "nba",
+        "league_name": "NBA",
+        "league_icon": "https://a.espncdn.com/i/teamlogos/leagues/500/nba.png",
+        "thumbnail": "https://auracdn.pages.dev/espn-401909979.png",
+        "thumbnail_path": "/espn-401909979.png",
+        "date": 1794535200000,
+        "date_iso": "2026-11-13T02:00:00.000Z",
+        "status": "scheduled",
+        "popular": false,
+        "user_count": 0,
+        "userCount": 0,
+        "teams": {
+          "home": {
+            "name": "Phoenix Suns",
+            "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png"
+          },
+          "away": {
+            "name": "Charlotte Hornets",
+            "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cha.png"
+          }
+        },
+        "sources": [
+          {
+            "name": "Stream 1",
+            "id": "espn-401909979",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401909979?source=0"
+          },
+          {
+            "name": "Backup",
+            "id": "0ac68be2-0793-434a-a771-a2d66f8822f7",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401909979?source=1"
+          }
+        ],
+        "synced_at": "2026-11-12 05:00:01",
+        "iframeUrl": "https://play.aurasportsplayer.cfd/event/espn-401909979",
+        "embedCode": "<iframe src=\"https://play.aurasportsplayer.cfd/event/espn-401909979\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>",
+        "watchUrl": "https://play.aurasportsplayer.cfd/event/espn-401909979"
+      }
+    ]
+  },
+  {
+    "category_name": "nhl",
+    "schedule": [
+      {
+        "id": "espn-401891808",
+        "match_id": "espn-401891808",
+        "title": "Carolina Hurricanes at Seattle Kraken",
+        "category": "nhl",
+        "league_name": "NHL",
+        "league_icon": "https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png",
+        "thumbnail": "https://auracdn.pages.dev/espn-401891808.png",
+        "thumbnail_path": "/espn-401891808.png",
+        "date": 1794502800000,
+        "date_iso": "2026-11-12T17:00:00.000Z",
+        "status": "scheduled",
+        "popular": false,
+        "user_count": 0,
+        "userCount": 0,
+        "teams": {
+          "home": {
+            "name": "Seattle Kraken",
+            "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/sea.png"
+          },
+          "away": {
+            "name": "Carolina Hurricanes",
+            "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/car.png"
+          }
+        },
+        "sources": [
+          {
+            "name": "Stream 1",
+            "id": "espn-401891808",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401891808?source=0"
+          },
+          {
+            "name": "Backup",
+            "id": "6ddd6fb0-c432-4dc1-bf50-2337588e703f",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401891808?source=1"
+          }
+        ],
+        "synced_at": "2026-11-12 05:00:03",
+        "iframeUrl": "https://play.aurasportsplayer.cfd/event/espn-401891808",
+        "embedCode": "<iframe src=\"https://play.aurasportsplayer.cfd/event/espn-401891808\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>",
+        "watchUrl": "https://play.aurasportsplayer.cfd/event/espn-401891808"
+      },
+      {
+        "id": "espn-401892696",
+        "match_id": "espn-401892696",
+        "title": "Montreal Canadiens at Boston Bruins",
+        "category": "nhl",
+        "league_name": "NHL",
+        "league_icon": "https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png",
+        "thumbnail": "https://auracdn.pages.dev/espn-401892696.png",
+        "thumbnail_path": "/espn-401892696.png",
+        "date": 1794528000000,
+        "date_iso": "2026-11-13T00:00:00.000Z",
+        "status": "scheduled",
+        "popular": false,
+        "user_count": 0,
+        "userCount": 0,
+        "teams": {
+          "home": {
+            "name": "Boston Bruins",
+            "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/bos.png"
+          },
+          "away": {
+            "name": "Montreal Canadiens",
+            "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/mtl.png"
+          }
+        },
+        "sources": [
+          {
+            "name": "Stream 1",
+            "id": "espn-401892696",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401892696?source=0"
+          },
+          {
+            "name": "Backup",
+            "id": "0e77394c-e87b-4607-86c0-6e6492101cfc",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401892696?source=1"
+          }
+        ],
+        "synced_at": "2026-11-12 05:00:03",
+        "iframeUrl": "https://play.aurasportsplayer.cfd/event/espn-401892696",
+        "embedCode": "<iframe src=\"https://play.aurasportsplayer.cfd/event/espn-401892696\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>",
+        "watchUrl": "https://play.aurasportsplayer.cfd/event/espn-401892696"
+      },
+      {
+        "id": "espn-401892697",
+        "match_id": "espn-401892697",
+        "title": "Minnesota Wild at Toronto Maple Leafs",
+        "category": "nhl",
+        "league_name": "NHL",
+        "league_icon": "https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png",
+        "thumbnail": "https://auracdn.pages.dev/espn-401892697.png",
+        "thumbnail_path": "/espn-401892697.png",
+        "date": 1794528000000,
+        "date_iso": "2026-11-13T00:00:00.000Z",
+        "status": "scheduled",
+        "popular": false,
+        "user_count": 0,
+        "userCount": 0,
+        "teams": {
+          "home": {
+            "name": "Toronto Maple Leafs",
+            "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/tor.png"
+          },
+          "away": {
+            "name": "Minnesota Wild",
+            "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/min.png"
+          }
+        },
+        "sources": [
+          {
+            "name": "Stream 1",
+            "id": "espn-401892697",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401892697?source=0"
+          },
+          {
+            "name": "Backup",
+            "id": "265b43cb-ba88-4dd5-bd63-4bed342c5f5e",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401892697?source=1"
+          }
+        ],
+        "synced_at": "2026-11-12 05:00:03",
+        "iframeUrl": "https://play.aurasportsplayer.cfd/event/espn-401892697",
+        "embedCode": "<iframe src=\"https://play.aurasportsplayer.cfd/event/espn-401892697\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>",
+        "watchUrl": "https://play.aurasportsplayer.cfd/event/espn-401892697"
+      },
+      {
+        "id": "espn-401892698",
+        "match_id": "espn-401892698",
+        "title": "Colorado Avalanche at Ottawa Senators",
+        "category": "nhl",
+        "league_name": "NHL",
+        "league_icon": "https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png",
+        "thumbnail": "https://auracdn.pages.dev/espn-401892698.png",
+        "thumbnail_path": "/espn-401892698.png",
+        "date": 1794528000000,
+        "date_iso": "2026-11-13T00:00:00.000Z",
+        "status": "scheduled",
+        "popular": false,
+        "user_count": 0,
+        "userCount": 0,
+        "teams": {
+          "home": {
+            "name": "Ottawa Senators",
+            "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/ott.png"
+          },
+          "away": {
+            "name": "Colorado Avalanche",
+            "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/col.png"
+          }
+        },
+        "sources": [
+          {
+            "name": "Stream 1",
+            "id": "espn-401892698",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401892698?source=0"
+          },
+          {
+            "name": "Backup",
+            "id": "36e15692-4f21-46c2-b7d6-1f2895eb2286",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401892698?source=1"
+          }
+        ],
+        "synced_at": "2026-11-12 05:00:03",
+        "iframeUrl": "https://play.aurasportsplayer.cfd/event/espn-401892698",
+        "embedCode": "<iframe src=\"https://play.aurasportsplayer.cfd/event/espn-401892698\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>",
+        "watchUrl": "https://play.aurasportsplayer.cfd/event/espn-401892698"
+      },
+      {
+        "id": "espn-401892700",
+        "match_id": "espn-401892700",
+        "title": "Washington Capitals at New Jersey Devils",
+        "category": "nhl",
+        "league_name": "NHL",
+        "league_icon": "https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png",
+        "thumbnail": "https://auracdn.pages.dev/espn-401892700.png",
+        "thumbnail_path": "/espn-401892700.png",
+        "date": 1794528000000,
+        "date_iso": "2026-11-13T00:00:00.000Z",
+        "status": "scheduled",
+        "popular": false,
+        "user_count": 0,
+        "userCount": 0,
+        "teams": {
+          "home": {
+            "name": "New Jersey Devils",
+            "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nj.png"
+          },
+          "away": {
+            "name": "Washington Capitals",
+            "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/wsh.png"
+          }
+        },
+        "sources": [
+          {
+            "name": "Stream 1",
+            "id": "espn-401892700",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401892700?source=0"
+          },
+          {
+            "name": "Backup",
+            "id": "f2b4fc8c-79d0-4006-bead-a9dcb2c6a7ac",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401892700?source=1"
+          }
+        ],
+        "synced_at": "2026-11-12 05:00:03",
+        "iframeUrl": "https://play.aurasportsplayer.cfd/event/espn-401892700",
+        "embedCode": "<iframe src=\"https://play.aurasportsplayer.cfd/event/espn-401892700\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>",
+        "watchUrl": "https://play.aurasportsplayer.cfd/event/espn-401892700"
+      },
+      {
+        "id": "espn-401892701",
+        "match_id": "espn-401892701",
+        "title": "Tampa Bay Lightning at Columbus Blue Jackets",
+        "category": "nhl",
+        "league_name": "NHL",
+        "league_icon": "https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png",
+        "thumbnail": "https://auracdn.pages.dev/espn-401892701.png",
+        "thumbnail_path": "/espn-401892701.png",
+        "date": 1794528000000,
+        "date_iso": "2026-11-13T00:00:00.000Z",
+        "status": "scheduled",
+        "popular": false,
+        "user_count": 0,
+        "userCount": 0,
+        "teams": {
+          "home": {
+            "name": "Columbus Blue Jackets",
+            "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/cbj.png"
+          },
+          "away": {
+            "name": "Tampa Bay Lightning",
+            "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/tb.png"
+          }
+        },
+        "sources": [
+          {
+            "name": "Stream 1",
+            "id": "espn-401892701",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401892701?source=0"
+          },
+          {
+            "name": "Backup",
+            "id": "69b313a2-abce-4992-ad8b-eb44636a836f",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401892701?source=1"
+          }
+        ],
+        "synced_at": "2026-11-12 05:00:03",
+        "iframeUrl": "https://play.aurasportsplayer.cfd/event/espn-401892701",
+        "embedCode": "<iframe src=\"https://play.aurasportsplayer.cfd/event/espn-401892701\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>",
+        "watchUrl": "https://play.aurasportsplayer.cfd/event/espn-401892701"
+      },
+      {
+        "id": "espn-401892699",
+        "match_id": "espn-401892699",
+        "title": "Detroit Red Wings at Florida Panthers",
+        "category": "nhl",
+        "league_name": "NHL",
+        "league_icon": "https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png",
+        "thumbnail": "https://auracdn.pages.dev/espn-401892699.png",
+        "thumbnail_path": "/espn-401892699.png",
+        "date": 1794529800000,
+        "date_iso": "2026-11-13T00:30:00.000Z",
+        "status": "scheduled",
+        "popular": false,
+        "user_count": 0,
+        "userCount": 0,
+        "teams": {
+          "home": {
+            "name": "Florida Panthers",
+            "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/fla.png"
+          },
+          "away": {
+            "name": "Detroit Red Wings",
+            "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/det.png"
+          }
+        },
+        "sources": [
+          {
+            "name": "Stream 1",
+            "id": "espn-401892699",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401892699?source=0"
+          },
+          {
+            "name": "Backup",
+            "id": "46b1ead4-5dff-451e-a672-02225ce7bfde",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401892699?source=1"
+          }
+        ],
+        "synced_at": "2026-11-12 05:00:03",
+        "iframeUrl": "https://play.aurasportsplayer.cfd/event/espn-401892699",
+        "embedCode": "<iframe src=\"https://play.aurasportsplayer.cfd/event/espn-401892699\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>",
+        "watchUrl": "https://play.aurasportsplayer.cfd/event/espn-401892699"
+      },
+      {
+        "id": "espn-401892702",
+        "match_id": "espn-401892702",
+        "title": "Buffalo Sabres at Chicago Blackhawks",
+        "category": "nhl",
+        "league_name": "NHL",
+        "league_icon": "https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png",
+        "thumbnail": "https://auracdn.pages.dev/espn-401892702.png",
+        "thumbnail_path": "/espn-401892702.png",
+        "date": 1794531600000,
+        "date_iso": "2026-11-13T01:00:00.000Z",
+        "status": "scheduled",
+        "popular": false,
+        "user_count": 0,
+        "userCount": 0,
+        "teams": {
+          "home": {
+            "name": "Chicago Blackhawks",
+            "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/chi.png"
+          },
+          "away": {
+            "name": "Buffalo Sabres",
+            "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/buf.png"
+          }
+        },
+        "sources": [
+          {
+            "name": "Stream 1",
+            "id": "espn-401892702",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401892702?source=0"
+          },
+          {
+            "name": "Backup",
+            "id": "165adaf6-44e1-48dd-8ff2-a6be158670d8",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401892702?source=1"
+          }
+        ],
+        "synced_at": "2026-11-12 05:00:03",
+        "iframeUrl": "https://play.aurasportsplayer.cfd/event/espn-401892702",
+        "embedCode": "<iframe src=\"https://play.aurasportsplayer.cfd/event/espn-401892702\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>",
+        "watchUrl": "https://play.aurasportsplayer.cfd/event/espn-401892702"
+      },
+      {
+        "id": "espn-401892703",
+        "match_id": "espn-401892703",
+        "title": "Winnipeg Jets at Dallas Stars",
+        "category": "nhl",
+        "league_name": "NHL",
+        "league_icon": "https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png",
+        "thumbnail": "https://auracdn.pages.dev/espn-401892703.png",
+        "thumbnail_path": "/espn-401892703.png",
+        "date": 1794531600000,
+        "date_iso": "2026-11-13T01:00:00.000Z",
+        "status": "scheduled",
+        "popular": false,
+        "user_count": 0,
+        "userCount": 0,
+        "teams": {
+          "home": {
+            "name": "Dallas Stars",
+            "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/dal.png"
+          },
+          "away": {
+            "name": "Winnipeg Jets",
+            "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/wpg.png"
+          }
+        },
+        "sources": [
+          {
+            "name": "Stream 1",
+            "id": "espn-401892703",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401892703?source=0"
+          },
+          {
+            "name": "Backup",
+            "id": "f900c31a-dfca-4ff5-9bd4-82c637e8eaa1",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401892703?source=1"
+          }
+        ],
+        "synced_at": "2026-11-12 05:00:03",
+        "iframeUrl": "https://play.aurasportsplayer.cfd/event/espn-401892703",
+        "embedCode": "<iframe src=\"https://play.aurasportsplayer.cfd/event/espn-401892703\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>",
+        "watchUrl": "https://play.aurasportsplayer.cfd/event/espn-401892703"
+      },
+      {
+        "id": "espn-401892704",
+        "match_id": "espn-401892704",
+        "title": "St. Louis Blues at Utah Mammoth",
+        "category": "nhl",
+        "league_name": "NHL",
+        "league_icon": "https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png",
+        "thumbnail": "https://auracdn.pages.dev/espn-401892704.png",
+        "thumbnail_path": "/espn-401892704.png",
+        "date": 1794535200000,
+        "date_iso": "2026-11-13T02:00:00.000Z",
+        "status": "scheduled",
+        "popular": false,
+        "user_count": 0,
+        "userCount": 0,
+        "teams": {
+          "home": {
+            "name": "Utah Mammoth",
+            "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/uta.png"
+          },
+          "away": {
+            "name": "St. Louis Blues",
+            "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/stl.png"
+          }
+        },
+        "sources": [
+          {
+            "name": "Stream 1",
+            "id": "espn-401892704",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401892704?source=0"
+          },
+          {
+            "name": "Backup",
+            "id": "a3e22faf-bdbb-469d-b1d6-9199254c32d4",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401892704?source=1"
+          }
+        ],
+        "synced_at": "2026-11-12 05:00:03",
+        "iframeUrl": "https://play.aurasportsplayer.cfd/event/espn-401892704",
+        "embedCode": "<iframe src=\"https://play.aurasportsplayer.cfd/event/espn-401892704\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>",
+        "watchUrl": "https://play.aurasportsplayer.cfd/event/espn-401892704"
+      },
+      {
+        "id": "espn-401892705",
+        "match_id": "espn-401892705",
+        "title": "New York Islanders at Los Angeles Kings",
+        "category": "nhl",
+        "league_name": "NHL",
+        "league_icon": "https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png",
+        "thumbnail": "https://auracdn.pages.dev/espn-401892705.png",
+        "thumbnail_path": "/espn-401892705.png",
+        "date": 1794538800000,
+        "date_iso": "2026-11-13T03:00:00.000Z",
+        "status": "scheduled",
+        "popular": false,
+        "user_count": 0,
+        "userCount": 0,
+        "teams": {
+          "home": {
+            "name": "Los Angeles Kings",
+            "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/la.png"
+          },
+          "away": {
+            "name": "New York Islanders",
+            "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nyi.png"
+          }
+        },
+        "sources": [
+          {
+            "name": "Stream 1",
+            "id": "espn-401892705",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401892705?source=0"
+          },
+          {
+            "name": "Backup",
+            "id": "f26aadc0-cae6-4fde-941f-40caeb3ec53c",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401892705?source=1"
+          }
+        ],
+        "synced_at": "2026-11-12 05:00:03",
+        "iframeUrl": "https://play.aurasportsplayer.cfd/event/espn-401892705",
+        "embedCode": "<iframe src=\"https://play.aurasportsplayer.cfd/event/espn-401892705\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>",
+        "watchUrl": "https://play.aurasportsplayer.cfd/event/espn-401892705"
+      }
+    ]
+  },
+  {
+    "category_name": "cfb",
+    "schedule": [
+      {
+        "id": "espn-401862824",
+        "match_id": "espn-401862824",
+        "title": "Memphis Tigers at South Florida Bulls",
+        "category": "cfb",
+        "league_name": "NCAAF",
+        "league_icon": "https://a.espncdn.com/redesign/assets/img/icons/NCAASports_Football.png",
+        "thumbnail": "https://auracdn.pages.dev/espn-401862824.png",
+        "thumbnail_path": "/espn-401862824.png",
+        "date": 1794531600000,
+        "date_iso": "2026-11-13T01:00:00.000Z",
+        "status": "scheduled",
+        "popular": false,
+        "user_count": 0,
+        "userCount": 0,
+        "teams": {
+          "home": {
+            "name": "South Florida Bulls",
+            "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/58.png"
+          },
+          "away": {
+            "name": "Memphis Tigers",
+            "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/235.png"
+          }
+        },
+        "sources": [
+          {
+            "name": "Stream 1",
+            "id": "espn-401862824",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401862824?source=0"
+          },
+          {
+            "name": "Backup",
+            "id": "50007980-0e8b-437c-8e6c-181a235cc46c",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401862824?source=1"
+          }
+        ],
+        "synced_at": "2026-11-12 05:00:03",
+        "iframeUrl": "https://play.aurasportsplayer.cfd/event/espn-401862824",
+        "embedCode": "<iframe src=\"https://play.aurasportsplayer.cfd/event/espn-401862824\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>",
+        "watchUrl": "https://play.aurasportsplayer.cfd/event/espn-401862824"
+      },
+      {
+        "id": "espn-401869969",
+        "match_id": "espn-401869969",
+        "title": "Louisiana Ragin' Cajuns at UL Monroe Warhawks",
+        "category": "cfb",
+        "league_name": "NCAAF",
+        "league_icon": "https://a.espncdn.com/redesign/assets/img/icons/NCAASports_Football.png",
+        "thumbnail": "https://auracdn.pages.dev/espn-401869969.png",
+        "thumbnail_path": "/espn-401869969.png",
+        "date": 1794535200000,
+        "date_iso": "2026-11-13T02:00:00.000Z",
+        "status": "scheduled",
+        "popular": false,
+        "user_count": 0,
+        "userCount": 0,
+        "teams": {
+          "home": {
+            "name": "UL Monroe Warhawks",
+            "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2433.png"
+          },
+          "away": {
+            "name": "Louisiana Ragin' Cajuns",
+            "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/309.png"
+          }
+        },
+        "sources": [
+          {
+            "name": "Stream 1",
+            "id": "espn-401869969",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401869969?source=0"
+          },
+          {
+            "name": "Backup",
+            "id": "cc8e480f-2d77-473f-947e-1bb9ed1a8b83",
+            "url": "https://play.aurasportsplayer.cfd/event/espn-401869969?source=1"
+          }
+        ],
+        "synced_at": "2026-11-12 05:00:03",
+        "iframeUrl": "https://play.aurasportsplayer.cfd/event/espn-401869969",
+        "embedCode": "<iframe src=\"https://play.aurasportsplayer.cfd/event/espn-401869969\" width=\"640\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"true\" allow=\"autoplay; encrypted-media\"></iframe>",
+        "watchUrl": "https://play.aurasportsplayer.cfd/event/espn-401869969"
+      }
+    ]
+  }
+]

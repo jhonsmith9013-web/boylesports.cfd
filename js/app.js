@@ -6,7 +6,7 @@
 (function () {
     'use strict';
 
-    const PUBLIC_BASE_URL = window.PUBLIC_BASE_URL || 'https://hostinfo.cfd';
+    const PUBLIC_BASE_URL = window.PUBLIC_BASE_URL || 'https://boylesports.cfd';
     const API_ENDPOINT = 'https://aurasports.xyz/api/schedule';
     const FALLBACK_ENDPOINT = 'api_sample.json';
 
@@ -28,7 +28,16 @@
             subtitle: 'NBA COURT ACTION & FASTBREAK HIGHLIGHTS LIVE',
             desc: 'Watch free NBA basketball streams on CrackStreams. Track regular season matchups, buzzer-beaters, and the NBA Finals in pristine 60FPS video clarity.',
             icon: 'https://a.espncdn.com/i/teamlogos/leagues/500/nba.png',
-            apiKeys: ['nba']
+            apiKeys: ['nba', 'basketball']
+        },
+        {
+            id: 'ncaab',
+            title: 'NCAAB',
+            pageTitle: 'NCAAB Streams',
+            subtitle: 'COLLEGE BASKETBALL MARCH MADNESS & NCAA HOOPS LIVE',
+            desc: 'Watch free NCAAB college basketball streams on CrackStreams. Stream NCAA Men\'s Division I basketball matchups, conference tournaments, and March Madness in HD.',
+            icon: 'https://a.espncdn.com/i/teamlogos/ncaa/500/ncaa.png',
+            apiKeys: ['ncaab', 'ncaam', 'ncaaw', 'cbb', 'college-basketball', 'ncaa-basketball', 'ncaa-hoops']
         },
         {
             id: 'cfb',
@@ -46,7 +55,7 @@
             subtitle: 'WORLDWIDE FOOTBALL DERBIES & CHAMPIONS LEAGUE NIGHTS',
             desc: 'Watch free soccer streams on CrackStreams. Premier League fixtures, UEFA Champions League nights, La Liga, and international qualifiers in smooth HD.',
             icon: 'https://a.espncdn.com/i/leaguelogos/soccer/500/uefacl.png',
-            apiKeys: ['soccer', 'serie-a', 'carabao-cup', 'dfb-pokal', 'mls', 'brazil-serie-a', 'premier-league', 'la-liga', 'bundesliga', 'ligue-1']
+            apiKeys: ['soccer', 'serie-a', 'carabao-cup', 'dfb-pokal', 'mls', 'brazil-serie-a', 'premier-league', 'epl', 'la-liga', 'laliga', 'bundesliga', 'ligue-1', 'french-ligue-1', 'champions-league', 'uefa', 'fifa', 'copa-del-rey', 'europa-league']
         },
         {
             id: 'mma',
@@ -55,7 +64,7 @@
             subtitle: 'UFC FIGHT NIGHTS & CHAMPIONSHIP RINGWALKS',
             desc: 'Stream free UFC pay-per-views and marquee world boxing championship cards on CrackStreams. Crystal-clear octagon action with multi-server backup feeds.',
             icon: 'https://a.espncdn.com/i/teamlogos/leagues/500/mma.png',
-            apiKeys: ['mma', 'ufc', 'bellator', 'boxing']
+            apiKeys: ['mma', 'ufc', 'bellator', 'boxing', 'boxe']
         },
         {
             id: 'nhl',
@@ -82,7 +91,7 @@
             subtitle: 'FORMULA 1 GRAND PRIX RACING & QUALIFYING SESSIONS',
             desc: 'Watch free F1 live streams on CrackStreams. Experience high-speed circuit racing, practice runs, and pole-position qualifying sessions with 60FPS video.',
             icon: 'https://a.espncdn.com/i/teamlogos/leagues/500/f1.png',
-            apiKeys: ['f1', 'formula-1', 'motorsport']
+            apiKeys: ['f1', 'formula-1', 'formula1', 'motorsport', 'racing']
         },
         {
             id: 'wwe',
@@ -131,6 +140,9 @@
     const streamIframe = document.getElementById('stream-iframe');
     const playerSourcesList = document.getElementById('player-sources-list');
 
+    let lastLiveSyncTime = 0;
+    let livePollInterval = null;
+
     document.addEventListener('DOMContentLoaded', () => {
         initApp();
         initUIHandlers();
@@ -141,25 +153,27 @@
         handleHashRouting();
         startLiveSecondTicker();
 
-        // 1. INSTANT LOAD: Load cached schedule in 0ms
+        // 1. FAST INITIAL PAINT: Load cached schedule if fresh (< 5 mins old)
         const cached = loadLocalScheduleCache();
-        if (cached && cached.length > 0) {
+        if (cached && Array.isArray(cached) && cached.length > 0) {
             rawApiData = cached;
-            groupMatchesBySport();
-            updateSportCardPills();
-        }
-
-        // 2. Load local dataset in background without blocking UI
-        loadLocalDataset().then(() => {
             groupMatchesBySport();
             updateSportCardPills();
             if (currentSportId) {
                 renderCategoryMatches(currentSportId);
             }
-        });
+        }
 
-        // 3. BACKGROUND SYNC: Check live API in background
-        syncLiveScheduleInBackground();
+        // 2. IMMEDIATE REAL-TIME LIVE API FETCH (Zero Delay)
+        await fetchLiveSchedule(false);
+
+        // 3. BACKGROUND LIVE POLLING: Auto-check API every 45 seconds
+        // Ensures newly added matches in API show up immediately on site without reloading!
+        if (!livePollInterval) {
+            livePollInterval = setInterval(() => {
+                fetchLiveSchedule(true);
+            }, 45000);
+        }
     }
 
     function bindSportCardClicks() {
@@ -198,15 +212,17 @@
     }
 
     /**
-     * Load schedule from localStorage (0ms Instant Load)
+     * Load schedule from localStorage ONLY if fresh (< 5 minutes old)
      */
     function loadLocalScheduleCache() {
         try {
-            const raw = localStorage.getItem('crackstreams_schedule_cache');
+            const raw = localStorage.getItem('crackstreams_schedule_cache_v2');
             if (raw) {
                 const parsed = JSON.parse(raw);
-                if (Array.isArray(parsed) && parsed.length > 0) {
-                    return parsed;
+                if (parsed && parsed.timestamp && Array.isArray(parsed.data)) {
+                    if (Date.now() - parsed.timestamp < 5 * 60 * 1000) {
+                        return parsed.data;
+                    }
                 }
             }
         } catch (e) {
@@ -216,35 +232,34 @@
     }
 
     /**
-     * Load bundled local dataset fallback
+     * Save fresh data to cache with timestamp
      */
-    async function loadLocalDataset() {
+    function saveLocalScheduleCache(data) {
         try {
-            const res = await fetch(FALLBACK_ENDPOINT);
-            if (res.ok) {
-                rawApiData = await res.json();
-                try {
-                    localStorage.setItem('crackstreams_schedule_cache', JSON.stringify(rawApiData));
-                } catch (e) {}
-            }
-        } catch (e) {
-            console.error('All schedule sources failed:', e);
-            rawApiData = [];
-        }
+            localStorage.setItem('crackstreams_schedule_cache_v2', JSON.stringify({
+                timestamp: Date.now(),
+                data: data
+            }));
+        } catch (e) {}
     }
 
     /**
-     * Background Non-Blocking Live Schedule Sync
-     * Runs completely in background - NEVER freezes or delays page render
+     * Fetch Live Schedule directly from API with cache-busting & zero delay
      */
-    async function syncLiveScheduleInBackground() {
+    async function fetchLiveSchedule(isSilent = false) {
         try {
             const controller = new AbortController();
-            const timeoutId = setTimeout(() => controller.abort(), 3500);
+            const timeoutId = setTimeout(() => controller.abort(), 8000);
 
-            const res = await fetch(API_ENDPOINT, {
+            // Cache-busting query parameter + no-cache header ensures Cloudflare / browser always returns freshest data
+            const cacheBustUrl = `${API_ENDPOINT}?_t=${Date.now()}`;
+            const res = await fetch(cacheBustUrl, {
                 signal: controller.signal,
-                cache: 'default'
+                cache: 'no-store',
+                headers: {
+                    'Accept': 'application/json',
+                    'Cache-Control': 'no-cache'
+                }
             });
             clearTimeout(timeoutId);
 
@@ -252,19 +267,49 @@
                 const freshData = await res.json();
                 if (Array.isArray(freshData) && freshData.length > 0) {
                     rawApiData = freshData;
-                    try {
-                        localStorage.setItem('crackstreams_schedule_cache', JSON.stringify(freshData));
-                    } catch (e) {}
+                    lastLiveSyncTime = Date.now();
+                    saveLocalScheduleCache(freshData);
+
+                    // Update UI immediately
                     groupMatchesBySport();
+                    updateSportCardPills();
+                    renderSportCards();
+                    if (currentSportId) {
+                        renderCategoryMatches(currentSportId);
+                    }
+                    return true;
+                }
+            }
+        } catch (err) {
+            if (!isSilent) console.warn('Live API fetch delay/error:', err.message);
+        }
+
+        // Only if rawApiData is completely empty (no cache, no live API), load local fallback as last resort
+        if (!rawApiData || rawApiData.length === 0) {
+            await loadEmergencyFallback();
+        }
+        return false;
+    }
+
+    /**
+     * Emergency offline fallback (ONLY used if user has 0 internet and 0 cache)
+     */
+    async function loadEmergencyFallback() {
+        try {
+            const res = await fetch(FALLBACK_ENDPOINT);
+            if (res.ok) {
+                const fallbackData = await res.json();
+                if (!rawApiData || rawApiData.length === 0) {
+                    rawApiData = fallbackData;
+                    groupMatchesBySport();
+                    updateSportCardPills();
                     renderSportCards();
                     if (currentSportId) {
                         renderCategoryMatches(currentSportId);
                     }
                 }
             }
-        } catch (err) {
-            // Silently handled: cached schedule is already active and working
-        }
+        } catch (e) {}
     }
 
     /**
@@ -287,7 +332,26 @@
             const schedule = catGroup.schedule || [];
 
             // Find matching sport config
-            const matchedSport = SPORTS_CONFIG.find(s => s.apiKeys.includes(catName));
+            let matchedSport = SPORTS_CONFIG.find(s => s.apiKeys.includes(catName));
+            if (!matchedSport) {
+                if (catName.includes('ncaab') || catName.includes('ncaam') || catName.includes('cbb')) {
+                    matchedSport = SPORTS_CONFIG.find(s => s.id === 'ncaab');
+                } else if (catName.includes('cfb') || catName.includes('ncaaf')) {
+                    matchedSport = SPORTS_CONFIG.find(s => s.id === 'cfb');
+                } else if (catName === 'ncaa' || catName === 'college-sports') {
+                    const sampleItem = schedule[0] || {};
+                    const isBasket = (sampleItem.league_name || '').toLowerCase().includes('ncaam') ||
+                                     (sampleItem.league_name || '').toLowerCase().includes('ncaaw') ||
+                                     (sampleItem.league_name || '').toLowerCase().includes('basketball') ||
+                                     (sampleItem.title || '').toLowerCase().includes('basketball');
+                    matchedSport = SPORTS_CONFIG.find(s => s.id === (isBasket ? 'ncaab' : 'cfb'));
+                } else {
+                    matchedSport = SPORTS_CONFIG.find(s => s.apiKeys.some(k => catName.includes(k) || k.includes(catName)));
+                }
+            }
+            if (!matchedSport && (catName.includes('football') || catName.includes('cup') || catName.includes('league'))) {
+                matchedSport = SPORTS_CONFIG.find(s => s.id === 'soccer');
+            }
 
             schedule.forEach(item => {
                 const matchTime = item.date || (item.date_iso ? new Date(item.date_iso).getTime() : 0);
@@ -552,6 +616,11 @@
             window.scrollTo({ top: 0, behavior: 'smooth' });
         }
         if (liveCoverageBadge) liveCoverageBadge.style.display = 'none';
+
+        // Real-Time Sync: If data is older than 60s, fetch fresh live schedule immediately
+        if (Date.now() - lastLiveSyncTime > 60000) {
+            fetchLiveSchedule(true);
+        }
     }
 
     /**
